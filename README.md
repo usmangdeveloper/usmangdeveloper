@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman Ghani (@usmangdeveloper)
-- 👀 I’m interested in API development, cloud SaaS applications.
-- 🌱 I’m currently learning Postman
+- 👀 I’m interested in API development, Cloud SaaS applications development.
+- 🌱 I’m currently Open Source Software and How to Contribute (https://www.youtube.com/watch?v=yzeVMecydCE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email, whatsapp
 
