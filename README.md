@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Usman Ghani, a Professional Instrumentation & Control engineer with 10 years of experience(@usmangdeveloper)
-- 👀 I’m interested in Machine Learning, Python, APIs and AWS Cloud.
-- 🌱 I’m currently learning Google Machine Learning Crash Course and How to Contribute to GitHub repo's.
+- 👋 Hi, I’m Usman Ghani, a Professional Instrumentation & Control engineer with 10 years of experience in programming controllers(@usmangdeveloper)
+- 👀 I’m interested in Machine Learning using Python, APIs Integration and AWS Cloud systems.
+- 🌱 I’m currently spending my time on Google Machine Learning Crash Course.
 - 💞️ I’m looking to collaborate on APIs, Machine Learning and Python related projects.
 - 📫  You can reach me via email.
 
