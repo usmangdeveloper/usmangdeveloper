@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Usman Ghani, a Professional Instrumentation & Control engineer with 12 years of experience in programming controllers(@usmangdeveloper)
-- 👀 I’m interested in Machine Learning using Python, APIs Integration and AWS Cloud systems.
-- 🌱 I’m currently spending my time  AI Systems (Bland, VAPI, Synthflow and AIR. AI) integration with CRM systems (GoHighLevel, Zoho, Pipedrive, Hubspot)
+- 👋 Hi, I’m Usman Ghani- a Professional Instrumentation & Control engineer with 12 years of experience in programming controllers(@usmangdeveloper)
+- 👀 I’m interested in Machine Learning using Python, AWS Cloud systems and APIs Integration.
+- 🌱 I’m currently spending my time  AI Systems (Bland, VAPI, Synthflow and AIR. AI) integration with CRM systems (GoHighLevel, Zoho, Pipedrive, Hubspot). I spend time on reading latest papaers on Large Language Models Benchmarking.
 - 💞️ I’m looking to collaborate on APIs, Machine Learning and Python related projects.
 - 📫  You can reach me via email.
 
